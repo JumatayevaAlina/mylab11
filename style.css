@@ -1,0 +1,229 @@
+.leftside {
+	height:60vh;
+	background-color: #0089ED;
+	color:white;
+	z-index: 1;
+}
+.logo {
+	position: absolute;
+width: 100px;
+height: 30px;
+left: 42px;
+top: 31px;
+font-style: normal;
+font-family: Poppins;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+
+
+
+
+}
+
+#h1{
+	position: absolute;
+	width: 157px;
+	height: 51px;
+	left: 73px;
+	top: 150px;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 34px;
+	line-height: 51px;
+}
+#h3{
+	position: absolute;
+	width: 396px;
+	height: 36px;
+	left: 73px;
+	top: 201px;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 36px;
+}
+#p{
+	position: absolute;
+	width: 311px;
+	height: 115px;
+	left: 75px;
+	top: 259px;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 13px;
+	line-height: 19px;
+
+}
+
+#picture{
+	position: relative;
+	
+
+
+	height: 385px;
+width: 385px;
+left: 100px;
+top: 0px;
+border-radius: 0px;
+
+} 
+
+.loginas{
+	position: absolute;
+	width: 66px;
+	height: 24px;
+	left: 73px;
+	top: 412px;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 24px;
+	z-index: 1;
+	
+}
+
+.signinform {
+	z-index: 2;
+	position: absolute;
+	width: 539px;
+	height: 741px;
+	left: 783px;
+	top: 79px;
+	background: #FFFFFF;
+	box-shadow: 0px 4px 35px rgba(0, 0, 0, 0.08);
+	border-radius: 40px;
+}
+.welcome {
+	position: absolute;
+	width: 201px;
+	height: 32px;
+	top:44px;
+	left:44px;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	line-height: 31px;
+	color:black;
+}
+#lorem-blue{
+	color:#0089ED;
+	font-weight: bold;
+	font-family: Poppins;
+}
+.signin {
+	position: absolute;
+	left: 44px;
+	top: 77px;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 55px;
+
+}
+
+.google {
+	position: absolute;
+	width: 298px;
+	height: 55px;
+	top: 203px;
+	left: 44px;
+	background: #E9F1FF;
+	border-radius: 9px;
+	border:1px solid #E9F1FF;
+	color:#4285F4;
+	padding: 10px;
+
+}
+.facebook {
+	position: absolute;
+	width: 60px;
+	height: 55px;
+	left: 362px;
+	top: 203px;
+	background: #F7F7F7;
+	border-radius: 9px;
+	border:1px solid #E9F1FF;
+	color:#4285F4
+}
+.apple {
+	position: absolute;
+	width: 60px;
+	height: 55px;
+	left: 435px;
+	top: 203px;
+	background: #F7F7F7;
+	border-radius: 9px;
+	border:1px solid #E9F1FF;
+	color:#4285F4
+}
+.username {
+	position: absolute;
+	top:300px;
+	left:44px;
+}
+.password {
+	position: absolute;
+	top:405px;
+	left:44px;
+}
+
+.forgotpassword {
+	position: absolute;
+	top:514px;
+	left: 387px;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	line-height: 19px;
+	color: #4285F4;
+}
+
+.signinbut {
+	position: absolute;
+	width: 451px;
+	height: 54px;
+	left: 44px;
+	top: 568px;
+	background: #0089ED;
+	box-shadow: 0px 4px 19px rgba(119, 147, 65, 0.3);
+	border-radius: 10px;
+	border:1px solid #0089ED;
+}
+
+.icon{
+	width:35px;
+}
+
+#email{
+	width:451px;
+	height: 57px;
+	background: #FFFFFF;
+	border: 1px solid #4285F4;
+	box-sizing: border-box;
+	border-radius: 9px;
+}
+#password{
+	width:451px;
+	height: 57px;
+	background: #FFFFFF;
+	border: 1px solid #4285F4;
+	box-sizing: border-box;
+	border-radius: 9px;
+}
+
+.label{
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 24px;
+}
+
+}
